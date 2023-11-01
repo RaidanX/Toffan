@@ -1,5 +1,5 @@
 
-<div class="tgme_page_description" dir="auto">  للجيش السيبراني لفلسطين</div>
+<div class="tgme_page_description" dir="auto">  للجيش السيبراني الفلسطيني</div>
 
 
 Windows and Linux 
