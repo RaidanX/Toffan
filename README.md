@@ -1,5 +1,5 @@
 
-<div class="tgme_page_description" dir="auto">القناة الرسمية للجيش السيبراني لفلسطين</div>
+<div class="tgme_page_description" dir="auto">  للجيش السيبراني لفلسطين</div>
 
 
 Install Node v20.9.0 (LTS)
